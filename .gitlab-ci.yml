@@ -6,7 +6,11 @@ stages:          # List of stages for jobs, and their order of execution
 
 build-hugo:       # This job runs in the build stage, which runs first.
   stage: build
-  image: golang
+  image: debian
+  before_script:
+    - apt update
+    - apt full-upgrade -y
+    - apt install -y go hugo 
   script:
     - ls
     - echo "Compile complete."
