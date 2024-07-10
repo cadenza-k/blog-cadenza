@@ -2,14 +2,13 @@
 title: Introduction
 description: Welcome Aboard!
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
+date: 2023-12-15 00:00:00+0000
 image: cover.jpg
 draft: true
 #categories:
 #    - Example Category
 tags:
     - Personal
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 Welcome! Have a seat, it's only the beginning!
