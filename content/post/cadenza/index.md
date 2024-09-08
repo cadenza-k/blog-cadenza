@@ -58,6 +58,7 @@ After this, I played Sea of Thieves with my best friend, we met some of the best
 After that, we played Destiny 2. It was some "normal gameplay", where I played a fem robot but what struck me the most was a question I asked my friends without even thinking about it: 
 "Guys, would it be weird for me to bear the trans banner? I'm not but I feel like we should support the cause", ofc they reacted against it but it stayed stuck in my mind.
 
+![Destiny 2's Transgender banner, A.K.A. "Be True"](betrue.png)
 
 At that time, my twitter timeline was starting to fill with transgender people without really knowing why.
 
@@ -68,10 +69,10 @@ Around a month later, one of my homies's egg cracked so she announced to us she 
 As a side effect, it made me start thinking again about questioning my own gender but not entirely, it was more like lazy thinking coated in denial.
 Around a trimester later I told someone I was feeling "something along the lines of gender fluidity but can't put a word on it, it's weird".
 
-Later, my homie, after an evening of talking, said while leaving "you're gonna hate me but I'm sending you a link, you should probably read it".
+Later, my homie, after an evening of talking, said while leaving "you're gonna hate me, but I'm sending you a link, you should probably read it".
 That link was https://genderdysphoria.fyi/
 
-At first I was like "oh, cool! Some reading so I could understand her better!"
+At first, I was like "oh, cool! Some reading so I could understand her better!"
 And I started reading it avidly, and read everything in 48hrs (my sleep took a deep hit because of this).
 
 It was all fun and games until a specific passage came up:
@@ -86,7 +87,7 @@ Then, there was *that* evening.
 
 I was playing ff14, again, then I broke down out of nowhere.
 
-I've never been a writer but I started writing at that time, I kept a journal for a while, now I barely write anymore. In that journal I wrote what I was feeling that particular day.
+I've never been a writer, but I started writing at that time, I kept a journal for a while, now I barely write anymore. In that journal I wrote what I was feeling that particular day.
 
 That first entry was just an image (with the caption "Y tho") and the head title was "Why am I like this? Why can't I be "normal" for once?
 
