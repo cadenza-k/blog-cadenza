@@ -4,17 +4,33 @@ stages:          # List of stages for jobs, and their order of execution
   - build
   - deploy
 
-build-hugo:       # This job runs in the build stage, which runs first.
+build:       # This job runs in the build stage, which runs first.
   stage: build
   image: debian
   before_script:
     - apt update
     - apt full-upgrade -y
-    - apt install -y golang hugo openssh
+    - apt install -y golang hugo
   script:
     - hugo --version
     - hugo
+  artifacts:
+    untracked: true
 
+deploy:
+  stage: deploy
+  image: debian
+  dependencies:
+    - build
+  before_script:
+    - apt update
+    - apt full-upgrade -y
+    - apt install -y openssh-client
+    # https://docs.gitlab.com/ee/ci/jobs/ssh_keys.html
+    - 'command -v ssh-agent >/dev/null || ( apt-get update -y && apt-get install openssh-client -y )' 
+    - eval $(ssh-agent -s)
+  script:
+    - ls
 
 
 
