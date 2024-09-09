@@ -12,7 +12,7 @@ build:       # This job runs in the build stage, which runs first.
     - apt full-upgrade -y
     - apt install -y golang hugo
   script:
-    - hugo --version
+    - hugo env
     - hugo
   artifacts:
     untracked: true
