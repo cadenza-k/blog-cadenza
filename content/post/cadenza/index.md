@@ -105,3 +105,5 @@ On this day, it was official, I *am* Astrid Cadenza Kestrel. (on a funny note, i
 That was on 2023-09-27 🏳️‍⚧️
 
 After nearly a year, I can safely say that accepting these feelings and starting to become myself was the best choice in my life!
+
+> PS: There's a reason for this banner, smh the text isn't shown on the post banner but if you open it on a new tab, you'll see a bit of text adding more sense to the picture
