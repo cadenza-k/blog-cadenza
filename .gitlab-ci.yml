@@ -35,7 +35,8 @@ deploy:
     - ssh-add "$SSH_PRIVATE_KEY"
   script:
     - ls public
-    - rsync -avh public/ gitlab@ts-gw:/var/www/blog/
+    # rsync to ts-gw
+    - rsync -avh public/ gitlab@100.64.0.23:/var/www/blog/
 
 
 
