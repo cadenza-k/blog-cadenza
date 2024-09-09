@@ -8,7 +8,6 @@ build:       # This job runs in the build stage, which runs first.
   stage: build
   image: debian:unstable
   before_script:
-    - sleep 5
     - apt update
     - apt full-upgrade -y
     - apt install -y golang hugo
@@ -24,7 +23,6 @@ deploy:
   dependencies:
     - build
   before_script:
-    - sleep 5
     - apt update
     - apt full-upgrade -y
     - apt install -y openssh-client rsync
@@ -33,6 +31,9 @@ deploy:
     - eval $(ssh-agent -s)
     - chmod 400 "$SSH_PRIVATE_KEY"
     - ssh-add "$SSH_PRIVATE_KEY"
+    - mkdir -p ~/.ssh
+    - cp "$SSH_KNOWN_HOSTS" ~/.ssh/known_hosts
+    - chmod 644 ~/.ssh/known_hosts
   script:
     - ls public
     # rsync to ts-gw
