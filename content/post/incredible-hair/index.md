@@ -32,7 +32,7 @@ So my hair did grow, in four years, I went through small hair, headband-style ha
 I never really understood my hair or why it grew like that. One thing that was certain is that I was unhappy with it 
 until I discovered that my headset with my hair gave me more volume. So, I did wear a headband, for like 3 months then stopped caring about my hair.  
 Years later, I tried to take care of my hair, with no one to teach me about it. I ended up using the same products that my sister recommended me, which were inefficient for my type of hair,
-and I mean, not totally efficient, it was a nice start, but not strong enough to make a significant effect to transform my frizzy hair into a lot of curls.
+and I mean, not totally efficient, it was a nice start, but not strong enough to make a significant effect to transform my frizzy hair into something that I truly want.
 
 # Some unexpected help
 
