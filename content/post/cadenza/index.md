@@ -4,7 +4,7 @@ description: Getting out of the closet
 slug: ack
 date: 2024-09-07 15:45:00+0000
 image: cover.png
-draft: true
+draft: false
 tags:
     - Personal
     - Trans
