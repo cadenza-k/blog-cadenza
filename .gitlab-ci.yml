@@ -25,13 +25,15 @@ deploy:
   before_script:
     - apt update
     - apt full-upgrade -y
-    - apt install -y openssh-client
+    - apt install -y openssh-client rsync
     # https://docs.gitlab.com/ee/ci/jobs/ssh_keys.html
     - 'command -v ssh-agent >/dev/null || ( apt-get update -y && apt-get install openssh-client -y )' 
     - eval $(ssh-agent -s)
+    - chmod 400 "$SSH_PRIVATE_KEY"
+    - ssh-add "$SSH_PRIVATE_KEY"
   script:
-    - ls
     - ls public
+    - rsync -avh public/ gitlab@ts-gw:/var/www/blog/
 
 
 
