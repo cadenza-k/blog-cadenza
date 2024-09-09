@@ -31,6 +31,7 @@ deploy:
     - eval $(ssh-agent -s)
   script:
     - ls
+    - ls public
 
 
 
