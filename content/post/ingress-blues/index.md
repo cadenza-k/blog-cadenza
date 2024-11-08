@@ -4,10 +4,10 @@ description: Beautiful yet so tarnished
 slug: ingress-blues
 date: 2024-09-27 00:55:00+2000
 image: cover.png
-draft: true
+draft: false
 tags:
     - Games
-    - Social
+    - Ingress
 ---
 
 # Introduction
