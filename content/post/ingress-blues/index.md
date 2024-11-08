@@ -85,7 +85,7 @@ The Anime feels like a nice touch with attention to the details.
 
 What struck the most about it for me was the ending, the song and the visuals tore me down.
 Most of the song is accompanied by a spinning globe of blue and green "cards" either showcasing pictures of various meetups that happened in the world since the launch. 
-There are also Agent Biocards with photos of Agents and nicknames or Full names of they have the NIA logo.
+There are also Agent Biocards with photos of Agents and nicknames or Full names if they have the NIA logo.
 
 You can check it out by yourself here:
 {{< youtube "Ydsd2F0jUCM" >}}
@@ -93,8 +93,7 @@ You can check it out by yourself here:
 The thing about it is the general feeling that I, as a player and a community member, arrived too late to the party.  
 The gramps have left, the plates are half-empty but there's goodwill from the people still there.
 
-For now, I have enlisted for the next Anomaly in Spain, we'll see how it goes? The global faction planning website announces
-394 registered Enlightened players.
+For now, I have enlisted for the next Anomaly in Spain, we'll see how it goes?
 
 I also want to revitalize this game in my community, the game is so stale that in my first week, the only players we saw were from the enemy team, 
 to the point where it was _that_ lonely that we ended up at a bar, all four of us.
