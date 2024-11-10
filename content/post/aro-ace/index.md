@@ -3,7 +3,7 @@ title: Aromantism & Asexuality
 description: Uuuh, where to start?
 slug: aro-ace
 date: 2024-11-04 23:55:55+1000
-image: cover.png
+image: cover.jpg
 draft: true
 tags:
     - Personal
@@ -39,7 +39,7 @@ It is "Someone is humping on my ass, clearly horny af but I don't care, it tickl
 Yet, still, even while feeling asexual, I still "do" because, even if I don't like it, there's something that I love more than this hate.
 
 Even though I don't like the act by itself, I still "do it" since I love "giving" more than recieving. Why? Because I love seeing my partner.s fullfilled emotionnally so, if it's a step for reaching this point, fuck it, we roll.  
-(on a side note, unnecessary but still wanted to put it, I fucking love feeling/hearing my partner.s )
+(on a side note, unnecessary but still wanted to put it, I fucking love feeling/hearing my partner.s)
 
 
 # Aromantism, aroflux, yada yada...
@@ -99,3 +99,6 @@ I've been discussing this with my dearest friend and he relates so much to this 
 
 On the good side, I now understand people better and worry less about my partners.  
 On the bad side, I'm a mess and it's gonna stay like that for a while.
+
+
+> Cover photo by [Carolina Heza](https://unsplash.com/@carolinahdzz) on [Unsplash](https://unsplash.com/)
