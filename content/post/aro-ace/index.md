@@ -4,7 +4,7 @@ description: Uuuh, where to start?
 slug: aro-ace
 date: 2024-11-04 23:55:55+1000
 image: cover.jpg
-draft: true
+draft: false
 tags:
     - Personal
     - Sexuality
@@ -15,7 +15,7 @@ tags:
 
 So, with such a title, where to start?
 
-First of all, there are people who *will* read this and asks themselves why didn't I told them beforehand?
+First of all, there are people who will read this and asks themselves why didn't I told them beforehand?
 
 The answer is simple, it terrorise me, I hate these feelings but at the same time I *need* to sort them out in order to get better and understand myself.
 
@@ -27,7 +27,7 @@ I've found to myself recently about asexuality or simply the fact that I don't l
 I like the dynamic and the affection related to it  
 I hate the act by itself.
 
-Is it because it's making dysphoric? Maybe.
+Is it because it's making me dysphoric? Maybe.
 
 Since then, my "sex drive" (gosh I hate that word) is dead. Not a living soul anymore.  
 It died by itself, I didn't tried to contain it or to kill it myself.  
@@ -39,7 +39,6 @@ It is "Someone is humping on my ass, clearly horny af but I don't care, it tickl
 Yet, still, even while feeling asexual, I still "do" because, even if I don't like it, there's something that I love more than this hate.
 
 Even though I don't like the act by itself, I still "do it" since I love "giving" more than recieving. Why? Because I love seeing my partner.s fullfilled emotionnally so, if it's a step for reaching this point, fuck it, we roll.  
-(on a side note, unnecessary but still wanted to put it, I fucking love feeling/hearing my partner.s)
 
 
 # Aromantism, aroflux, yada yada...
@@ -79,9 +78,9 @@ At these times I try to pretend nothing happened and hold onto what I can, which
 This can also lead to horrible situations:
 For context, that happened *very recently*, I was on phone with a dear friend, trying to help me after a sensory overload.
 
-A partner came in and told she loved me.  
-I obviously said that "I love her too".  
-On this point, I'm truly sorry, I felt I was lying. To you and to myself.  
+A partner came in and told they loved me.  
+I obviously said that "I love them too".  
+On this point, I'm truly sorry, I felt I was lying. To you and also to myself.  
 It is horrible and I can't to anything about it.
 
 
