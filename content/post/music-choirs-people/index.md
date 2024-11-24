@@ -4,7 +4,7 @@ description: This is kind of a weird topic. Or at least, it's multiple bubbles f
 slug: music
 date: 2024-11-24 08:48:00+2000
 image: cover.jpg
-draft: true
+draft: false
 tags:
     - Personal
 ---
