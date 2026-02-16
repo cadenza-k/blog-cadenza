@@ -79,3 +79,6 @@ The only thing I'll allow to share is _this wall_, the top 50 of the artists I l
 In the end, Music is a signal, and I'm in love with that one.  
 One of the few that don't make me feel like crap.  
 Thank you 💜
+
+
+> Cover photo by [Johannes Kopf](https://unsplash.com/@jkopf) on [Unsplash](https://unsplash.com/)
