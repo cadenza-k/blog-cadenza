@@ -52,11 +52,6 @@ This feeling of a strong connection, all living under the same banner, the same 
 living our best life, singing our lives away for a night
 
 
-You don't see what I mean? Here's some examples (⚠️ beware, spotify previews are usually loud af)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Y3RJZq1PwB2HNYfmyEIMg?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3LnGZ1srIqrURgYPFWKYLC?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/51iJXrmuuiLeHIVkEtwZ2p?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 I wasn't one to sing loudly, I've always been self-conscious about my voice and for multiple reasons.  
 Back when I went into my first concert, that was the first time my best friend heard me sing.
 
