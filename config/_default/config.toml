@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://cadenza.kestrel.ovh"
+baseurl = "https://cadenza.kestrel.moe"
 languageCode = "en-us"
 title = "Cadenza Kestrel"
 
