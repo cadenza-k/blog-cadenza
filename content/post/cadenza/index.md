@@ -10,40 +10,66 @@ tags:
     - Trans
 ---
 
+> As of 03/2026, this post has been reworked since time went by and some stuff made me really uncomfortable about it.<br>
+> I probably won't be able to make something great out of this but at least I tried!<br>
+> I also took some time to add more content<br>
+> — <cite>Aren't I generous? :3</cite>
+
+So the story started from a friend who asked:
 
 > What's the thing that sparked you to become trans?<br>
 > — <cite>A friend of mine over Discord</cite>
 
+First of all, before everything, you don't *become* trans, like being gay or whatever, you simply *are* but you need to discover yourself in order to know that.
+
 It was quite complicated. I didn't think about this since childhood like many others, I had too many problems on my plate to even think about that.
 I always had girl-ish manners, like crossing legs while sitting down, for me it's natural.
 
-I think the first realisation I could even be trans was around 2018, back when I started playing ff14. I used to run a generic fem character "for trolling", ended up remaking that char for a more personal one (this char is the one as my pfp).
+I think the first realisation I could even be trans was around 2018-2019.
+
+There was that period of my life where I started playing Final Fantasy XIV where I made the most generic character ever, since I didn't care at all.  
+I was enticed into the game because I heard of Dalamud's fall and heard that the dungeoning experience was quite good so I had to give it a try!
+
+For context, I'm from a far right family which loved having every *heir* into the military like jobs (my father was an air force accountant, my homophobe uncle a cop...).  
+It was a strict family with a strict set of rules and no margins allowed for anything be it, going outside, which hair cut you want or even when do you wanna go sleep.
+
+
+Back when I started playing ff14, I used to run a generic fem character "for trolling". About four months in, I ended up remaking that char for a more personal one (this char is the one as my pfp).  
 At this time, I spent *a lot* of time on this game, like I was 24/7 on it when I could : back from high school -> ff14 -> sleep was my weekly schedule.
 
-![Aria Kestrel, dont judge the quality, it was a shitty laptop back then.](old_aria.png) ![Cadenza Kestrel, alongside were some of my oldest friends](cadenza_wedding.png)
+So would you say, beside fucking up your social life was it worth it?  
+Hell yeah it was! I started meeting people from all horizons and from many different countries!
 
-Got dragged into roleplayers (I know, everyone made mistakes in their life), ended up in my first gay relationship (or just relationship at this point, since I was afraid of womens till 18-19yo) where I got invited to try other things and get out of my comfort zone. 
-Don't get me wrong, it was nice!
+I ended up playing in a friend group, which was the first time ever I got a "safe space".
+
+Thanks to this, I got more and more time playing with them, which, in turn allowed more time for myself, leaving outside all the accumulated trauma over my childhood and just be myself.
+
+
 During that time, I could experiment with a body who gradually felt just... Mine? At some point I realized, I wasn't \<deadname\>, I just became Cadenza Kestrel. 
-It was me, nothing more, nothing less. 
+It was me, nothing more, nothing less.
 
-My IRL self felt like it was fading away and was only "a mask" for living in society and offline. 
+And by this precept, the "me" was Cadenza and the "character" was the person outside sitting on a dogshit chair, on their laptop.  
+That "character" was a facade, a mask made to not make waves in society.
+
+
+Somehow, at some point, i ended up in my first gay relationship (or just relationship at this point, since I was afraid of womens till 18-19yo) where I got invited to try other things and get out of my comfort zone. 
+Don't get me wrong, it was nice!
+
 
 That also was the first time when I discovered my sexuality, since my partner at that time kept saying "are you okay we are both mens in a relationship?" and at some point I got angry and said something along the lines of "You could be a frying pan, I couldn't care less, I love people for *who they are*, not *what they are*."
 Guess that made me bi/pan? I honestly don't care, I still live by this precept on this day.
 
+
 Back to the original topic, I was just... Happy. I was experimenting with clothes, with the fact that I was identified as fem and I was just... Happy.
 
-Several months later, I met back with my oldest friend in that game, I still consider him as my brother and wish one day 
-I could see him irl.
-At that time, he saw my char and flatly said "You've changed, you now look like a Limsa whore" (Limsa is one of the big 
-cities in this game, where roleplayers tend to meet up and speak freely on... all kind of subjects)
 
-His words hit me really had, it made all of my safety and comfort crumble down and shatter, at this very moment, 
-I realized what was happening and I caught a glimpse that I might be trans (I might, what a dumbass I was, I was already at that time but didn't want to admit it!). <br>
-I don't hold a grudge against him or anything, he knew me beforehand and was simply worried about what is happening 
-(also the roleplayers tend to have quite a reputation on this game, to the point that there's a tag RP ingame for these players.)
-In truth, he's one of the first people I called on phone when I announced that my name change application (irl) has been validated.
+At some point I started to wish for a reversal or something. I wasn't aware of anything LGBT+ related, so I didn't have the words for it.
+
+I had a friend at some weekly nerd meetups (which was the only event that I attended downtown every week) that recently started hrt but I didn't understand and didn't want to try because I didn't want to hurt her because of my family roots and education.
+
+
+At some point, right before ShB release, I met again a friend who was here when I was dropping out of the game right before sastasha. I don't recall clearly how it went but it was quite harsh and made me grasp the possibility of "being trans", which is something that I didn't plan, didn't want because of my situation and the best I'd have wanted to is to put everything under a rug then forget it all happened
+So I stopped playing, tried my best to forget everything and try to fit into the mold
 
 I wasn't ready at that time, I was still in my family's mind constuct of lies from a french far-right perspective with some kind of internalized LGBT-phobia, so naturally, I entered a phase of denial.
 
@@ -54,21 +80,32 @@ I tried, I did let my beard grow, got a girlfriend, started to get more clothes 
 
 Eventually, along the years the shell started to crack, very slowly though.
 
-In 2020-2021, my best friend and some of my friends, even my gf at that time decided to try ff14, so I had to come back to this game. I hesitated for a long time to recreate a character and forget what happened. In the end I didn't have the courage 'cause it would mean erasing 1400hrs of gameplay made *in a single year*. It was to note that these friends weren't aware of what happened in 2018, I disappeared from my friend circle for a whole year because of this game.
+Around 2022, with the expansion of free trial from 2 weeks/lv30 to lv 60 without restrictions on playtime (I'm sure you know the pasta), my best friend wanted to start to play.
+I was reluctant to do so because of how it ended last time and how would they react if they were to know what happened...
+
+I hesitated for a long time to recreate a character and forget what happened. In the end I didn't have the courage 'cause it would mean erasing 1400hrs of gameplay made *in a single year*. It was to note that these friends weren't aware of what happened in 2018, I disappeared from my friend circle for a whole year because of this game.
 
 So, we came back to this game, we played, it made me comfortable again to play as Cadenza.
 And again, without me noticing, the egg was starting to slowly crack.
 
-![Partners in crime!](partners_in_crime.png)
+By some random coincidence we ended up in a big queer FC with a lot of people from different horizons.<br>
+I had a really fun time, it was also where I started that accursed static but that's another subject.
 
-After this, I played Sea of Thieves with my best friend, we met some of the best people out there 💜 even though one of them called my char "Hagrid the trans cow", it was a private joke but the source of it was that even though my character was an old, fat man, I made them wear dresses. I liked them, to be honest.
+![Partners in crime! In front of the FC estate c:](partners_in_crime.png)
 
-After that, we played Destiny 2. It was some "normal gameplay", where I played a fem robot but what struck me the most was a question I asked my friends without even thinking about it: 
-"Guys, would it be weird for me to bear the trans banner? I'm not but I feel like we should support the cause", ofc they reacted against it but it stayed stuck in my mind.
+That also gave me a lot of time and space to think about "these people" (I *really* hate this term) and how they live more freely compared to cis/het people.
+So I talked with them, trying to know them, how it is different from what I was told since my childhood.
+That was when I started rejecting everything that my parents tried to indoctrinate into me.
+
+
+After that, we played Destiny 2. It was some "normal gameplay", where I played a fem robot but what struck me the most was a question I asked my friend group at that time without even thinking about it: 
+"Guys, would it be weird for me to bear the trans banner? I'm not but I feel like we should support the cause".
+
+Of course these people reacted against it but it stayed stuck in my mind.
 
 ![Destiny 2's Transgender banner, A.K.A. "Be True"](betrue.png)
 
-At that time, my twitter timeline was starting to fill with transgender people without really knowing why.
+At that time, my twitter timeline was starting to fill with transgender people without really knowing why. It was both trans support content like how to do laser at home safely or trans content creators (or even some ppl I followed who comes out).
 
 Later, I moved out, around spring 2023.
 
